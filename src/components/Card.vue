@@ -39,6 +39,7 @@ li {
     background-color: #ffcc01;
     padding: 5px;
     text-align: center;
+    border-radius: 30px;
 
         a {
             text-decoration: none;
